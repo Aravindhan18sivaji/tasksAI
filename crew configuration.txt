@@ -1,0 +1,9 @@
+AI agent configuration
+
+1)Install conda
+2)make directory <dirname>
+3)move the path of the dir
+4)conda create -n <name> python=<version>
+5)conda activate <name>
+6)crewai create crew <name>
+7)choose the model and assign the generated api key of the model
