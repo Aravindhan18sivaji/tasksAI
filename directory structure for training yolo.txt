@@ -1,0 +1,14 @@
+to train yolo 
+
+titan_design_diff/
+├── images/
+│   ├── train/
+│   │   └── 2617xxc02_page-0001.jpg
+│   └── val/
+│       └── 2617xxc02_page-0002.jpg
+├── labels/
+│   ├── train/
+│   │   └── 2617xxc02_page-0001.txt
+│   └── val/
+│       └── 2617xxc02_page-0002.txt
+└── data.yaml
